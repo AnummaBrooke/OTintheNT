@@ -1,3 +1,7 @@
 ## Grading:
 
-Presentation:	?Review or Report:	?Composition:	?Exhibition Project:	?
+Presentation:	?
+Review or Report:	?
+Composition:	?
+Exhibition Project:	?
+
